@@ -14,6 +14,7 @@ If you have any questions, please feel free to contact me by sending emails: na.
 We also share the code at open remote sensing: https://openremotesensing.net/.
 
 If you find the work and the code useful, please cite our paper, thanks!!!
+
 [1] N. Liu, W. Li, R. Tao, Q. Du and J. Chanussot, "Multi-Graph-based Low-Rank Tensor Approximation for Hyperspectral Image Restoration," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2022.3177719.
 
 [2] N. Liu, W. Li and R. Tao, "Geometric Low-Rank Tensor Approximation for Remotely Sensed Hyperspectral And Multispectral Imagery Fusion," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022, pp. 2819-2823, doi: 10.1109/ICASSP43922.2022.9746041.
